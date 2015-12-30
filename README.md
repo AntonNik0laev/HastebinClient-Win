@@ -1,5 +1,5 @@
 # Hastebin Client for windows
-is simple tray application listening for global hotkeys and sends selected text to hastebin server. 
+it's simple tray application listening for global hotkeys and sends selected text to hastebin server. 
 It copies link to uploaded document to clipboard.
 ##Usage:
 1. - select the text 
