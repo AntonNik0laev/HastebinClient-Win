@@ -8,7 +8,7 @@ It copies link to uploaded document to clipboard.
 
 ##known issues
 
-For unknown reasons text from chrome brouser and windows console is not copied. 
+For unknown reasons text from chrome browser and windows console is not copied. 
 
 **Workarond:** Copy the text manually (using ctrl+C for example), then press the app shortcut.
 
